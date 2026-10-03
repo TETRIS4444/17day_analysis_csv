@@ -1,0 +1,40 @@
+SALES REPORT
+
+Raw sales: 15
+Valid sales: 8
+Invalid sales: 7
+
+Total revenue: 39380.0
+Total units: 20
+Average revenue: 1969.0
+
+PRODUCTS
+№1: Dyson
+AirPods: 10680.0
+Watch: 10300.0
+Dyson: 13700.0
+Cable: 4700.0
+
+CATEGORIES
+№1: Home
+Audio: 10680.0
+Wearables: 10300.0
+Home: 13700.0
+Accessories: 4700.0
+
+CITIES
+Samara: 15580.0
+Moscow: 9800.0
+Kazan: 9300.0
+unknown: 4700.0
+
+EXPENSIVE SALES
+3 | Dyson | 9000.0
+5 | AirPods | 6300.0
+14 | Watch | 6800.0
+
+PRODUCT RANKING
+1. Dyson
+2. AirPods
+3. Watch
+4. Cable
